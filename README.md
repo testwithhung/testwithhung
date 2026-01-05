@@ -4,3 +4,11 @@
 - 🧪 [LabVIEW Projects](https://github.com/testwithhung/labview-projects)
 - 🖥️ [AutoIt Scripts](https://github.com/testwithhung/autoit-projects)
 - 🌐 [PHP Tools](https://github.com/testwithhung/php-projects)
+
+## Summary Software Tool Used on when work
+
+
+## CommandLine Tool 
+
+- [Ripgrep Big Data Search raw Text] (https://github.com/BurntSushi/ripgrep)
+- [GnuWin Packages] (https://gnuwin32.sourceforge.net/packages.html)
