@@ -1,47 +1,70 @@
+# 👨‍💻 Hưng – Test Engineer Portfolio
+
+🔧 Practical tools, automation scripts, and engineering utilities used in daily manufacturing & testing environments.
+
+---
+
 ## 🔧 Projects by Language
 
-- 🐍 **[Python Projects](https://github.com/testwithhung/python-projects)**  
-  Automation tools, data processing, and engineering utilities.
+- 🐍 [Python Projects](https://github.com/testwithhung/python-projects)  
+  Automation tools, data processing, log analysis, and test utilities.
 
-- 🧪 **[LabVIEW Projects](https://github.com/testwithhung/labview-projects)**  
-  Test system development, instrument control, and validation programs.
+- 🧪 [LabVIEW Projects](https://github.com/testwithhung/labview-projects)  
+  Manufacturing test systems, instrument control, data acquisition.
 
-- 🖥️ **[AutoIt Scripts](https://github.com/testwithhung/autoit-projects)**  
-  Windows automation and internal productivity tools.
+- 🖥️ [AutoIt Scripts](https://github.com/testwithhung/autoit-projects)  
+  GUI automation, repetitive task handling, production support tools.
 
-- 🌐 **[PHP Tools](https://github.com/testwithhung/php-projects)**  
-  Lightweight web tools and internal dashboards.
+- 🌐 [PHP Tools](https://github.com/testwithhung/php-projects)  
+  Internal web tools, dashboards, tracking systems.
 
-
----
-
-## 🛠 Software & Tools Used at Work
-
-This section summarizes common tools used in daily engineering and manufacturing workflows.
-
-### 🔍 Command-Line Tools
-
-- 🔎 **[Ripgrep – High-performance text search](https://github.com/BurntSushi/ripgrep)**  
-  Fast recursive search for large-scale log and raw text processing.
-
-- 🧰 **[GnuWin32 Packages](https://gnuwin32.sourceforge.net/packages.html)**  
-  GNU utilities for Windows (awk, sed, grep, coreutils, etc.).
-
-- 📦 **[7-Zip](https://www.7-zip.org/)**  
-  Archive management and batch packaging for automation workflows.
-
-- 🖥️ **[Git for Windows](https://gitforwindows.org/)**  
-  Version control and command-line tool integration.
-
-- ⚙️ **[PowerShell](https://learn.microsoft.com/en-us/powershell/)**  
-  Automation scripting and system administration.
+- 📜 [Batch / Script Files](https://github.com/testwithhung/batch-scripts)  
+  Windows CMD automation, log filtering, server monitoring, file processing.
 
 ---
 
-## 📌 Typical Engineering Usage
+## 🧰 Summary – Software & Tools Used at Work
 
-- Large log search and extraction  
-- CSV validation and data comparison  
-- Automated packaging of test results  
-- Manufacturing troubleshooting support  
-- Internal automation tools for productivity improvement
+### 💻 Programming & Automation
+- Python
+- LabVIEW
+- AutoIt
+- Batch / CMD
+- PowerShell
+- PHP
+
+### 🗄️ Database
+- Microsoft SQL Server
+- MySQL
+
+### 🔍 Command Line Tools
+
+- [Ripgrep – Fast Text Search Tool](https://github.com/BurntSushi/ripgrep)  
+  High-speed log and raw data searching.
+
+- [GnuWin32 Packages](https://gnuwin32.sourceforge.net/packages.html)  
+  GNU tools on Windows (awk, grep, sed, etc.)
+
+- Windows CMD Utilities  
+  `findstr`, `wmic`, `tasklist`, `netstat`, `w32tm`
+
+---
+
+## 🎯 Engineering Focus
+
+- Manufacturing Test Engineering
+- Automation & Productivity Improvement
+- Log Analysis & Debugging
+- MES Support
+- Server & System Monitoring
+- Continuous Process Optimization
+
+---
+
+## 📫 Contact
+
+GitHub: https://github.com/testwithhung
+
+---
+
+⭐ Always improving. Always automating. Always optimizing.
